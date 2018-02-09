@@ -1,0 +1,12 @@
+location = ['spain', 'california', 'colorado', 'poland', 'germany', 'canada']
+print(location)
+print(sorted(location))
+print(location)
+location.reverse()
+print(location)
+location.reverse()
+print(location)
+location.sort()
+print(location)
+location.sort(reverse = True)
+print(location)

@@ -1,0 +1,5 @@
+names = ['kent', 'seth', 'barbara', 'chris', 'michaela']
+for i in names
+	message = "Hey " + i + "!"
+	print(message)
+
