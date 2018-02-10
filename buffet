@@ -1,0 +1,9 @@
+buffet = ['pizza', 'chicken', 'soup', 'bread', 'cake']
+print("Original List:")
+for i in buffet:
+	print(i.title())
+print("\nModified List:")
+buffet = ['ice cream', 'salad', 'broccoli', 'fruit', 'chips']
+for i in buffet:
+	print(i.title())
+
