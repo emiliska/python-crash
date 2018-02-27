@@ -1,3 +1,3 @@
 # python-crash
-LEARNING REPO
+LEARNING REPO <br>
 Some practice examples from [python crash course](https://nostarch.com/pythoncrashcourse).
